@@ -7,10 +7,7 @@ Pentru realizarea acestui proiect am creat o interfata GUI cu ajutorul modului T
 Rulare program:
 Trebuie creat un environment virtual iar apoi sa fie instalat modulul “tkinter” si “requests”. 
 
-Pentru a fi instalate se introduc urmatoarele comenzi in terminal:
-
-pip install tkinter
-pip install requests
+Pentru a fi instalate se introduc urmatoarele comenzi in terminal: pip install tkinter, pip install requests
 
 Repartizarea sarcinilor de lucru:
 Nita Razvan George: Design al interfetei (culori, fonturi, aranjarea in fereastra etc.)
