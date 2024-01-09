@@ -13,7 +13,8 @@ Caldarar Nicolae: Scheletul interfetei (adaugarea butoanelor necesare si a texte
 Comun: Functiile de conversie
 
 Research:
-Ratele de conversie ale monedelor au fost luate din urmatorul API: https://api.exchangerate-api.com/v4/latest/USD
+Ratele de conversie ale monedelor au fost luate din urmatorul API:
+https://api.exchangerate-api.com/v4/latest/USD
 Pentru tkinter si requests am folosit urmatoarele site-uri:
 https://www.geeksforgeeks.org/python-gui-tkinter/
 https://docs.python.org/3/library/tkinter.html
