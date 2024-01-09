@@ -3,10 +3,15 @@ Tema proiectului:
 CONVERTOR DE MONEDE
 Tip de proiect:
 Pentru realizarea acestui proiect am creat o interfata GUI cu ajutorul modului Tkinter.
+
 Rulare program:
 Trebuie creat un environment virtual iar apoi sa fie instalat modulul “tkinter” si “requests”. 
-Pentru a fi instalate se introduc urmatoarele comenzi in terminal:   pip install tkinter
-									pip install requests
+
+Pentru a fi instalate se introduc urmatoarele comenzi in terminal:
+
+pip install tkinter
+pip install requests
+
 Repartizarea sarcinilor de lucru:
 Nita Razvan George: Design al interfetei (culori, fonturi, aranjarea in fereastra etc.)
 Caldarar Nicolae: Scheletul interfetei (adaugarea butoanelor necesare si a textelor)
